@@ -1,4 +1,4 @@
-[![urbancor's github stats](https://github-readme-stats.vercel.app/api?username=urbancor&count_private=true&show_icons=true&theme=algolia)]
+![urbancor's github stats](https://github-readme-stats.vercel.app/api?username=urbancor&count_private=true&show_icons=true&theme=algolia)
 
 ### Languages and Tools:
 
