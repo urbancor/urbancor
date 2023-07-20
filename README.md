@@ -1,6 +1,4 @@
-![urbancor's github stats](https://github-readme-stats.vercel.app/api?username=urbancor&count_private=true&show_icons=true&theme=algolia)
 
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 ### Languages and Tools:
 
 
@@ -10,6 +8,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /><br></br>
+
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="center" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /><br></br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -17,4 +16,8 @@
 
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbancor&theme=algolia)]
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=urbancor&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="urbancor" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=urbancor&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="urbancor" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=urbancor&theme=highcontrast&hide_border=true" alt="urbancor" />
+</p>
