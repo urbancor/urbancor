@@ -5,7 +5,8 @@
 
     🎓 I am a first-year student of the master's interdisciplinary program in Computer Science and Mathematics.
 
-    🌱 I am interested in software development, artificial inteligence and data science. I also enjoy automating simple tasks to make my life easier.
+    🌱 I am interested in software development, artificial inteligence and data science. 
+    I also enjoy automating simple tasks to make my life easier.
     
     🎯 My Goal is to improve as a programmer and learn how to build robust and scalable aplications.
 
