@@ -1,5 +1,9 @@
 
-### Languages and Tools:
+### LinkedIn: 
+<img align="left" alt="LinkedIn" width="26px" src="./linkedin.png" href="https://www.linkedin.com/in/urban-c%C3%B6r-86a366147/"/>
+
+<br></br>
+### Languages:
 
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -9,7 +13,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /><img align="left" alt="Python" width="26px" src="./python.png" /><br></br>
 
-<br></br>
+### Tools:
 <img align="left" alt="MongoDB" width="26px" src="./mongodb-icon.png" />
 <img align="left" alt="SQL" width="26px" src="./sql.png" /><br></br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -17,6 +21,7 @@
 
 <br></br>
 
+### Stats:
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=urbancor&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="urbancor" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=urbancor&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="urbancor" />
