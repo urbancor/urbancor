@@ -1,5 +1,6 @@
 ![urbancor's github stats](https://github-readme-stats.vercel.app/api?username=urbancor&count_private=true&show_icons=true&theme=algolia)
 
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 ### Languages and Tools:
 
 
