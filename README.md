@@ -1,8 +1,11 @@
 
 ### LinkedIn: 
-<img align="left" alt="LinkedIn" width="26px" src="./linkedin.png" href="https://www.linkedin.com/in/urban-c%C3%B6r-86a366147/"/>
 
+<a href="https://www.linkedin.com/in/urban-c%C3%B6r-86a366147/">
+<img alt="LinkedIn" width="26px" src="./linkedin.png">
+</a>
 <br></br>
+
 ### Languages:
 
 
